@@ -36,3 +36,7 @@ function draw() {
   }
   
 }
+
+function keyPressed() {
+  saveCanvas();
+}
