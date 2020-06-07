@@ -1,0 +1,40 @@
+body{
+	background-color: orange;
+}
+
+
+
+h1 {
+
+			color: blue;
+			font-family: garamond;
+			font-size:50px;
+}
+
+
+
+p{
+
+			color: red;
+			font-family: helvetica;
+			font-size:20px;
+}
+
+a{
+
+			color: green;
+			font-family: helvetica;
+			font-size:12px;
+}
+
+#firstId{
+	font-family: garamond;
+	color: blue;
+
+}
+
+#secondId{
+font-family: helvetica;
+	color:red;
+
+}
